@@ -1,0 +1,24 @@
+{
+  "name": "hugo-rainmatter",
+  "version": "1.0.0",
+  "description": "Run `hugo` to compile the static site into the `public` directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirawatt/hugo-rainmatter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirawatt/hugo-rainmatter/issues"
+  },
+  "homepage": "https://github.com/hirawatt/hugo-rainmatter#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.0.7",
+    "tinacms": "^1.1.4"
+  }
+}
